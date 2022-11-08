@@ -52,18 +52,7 @@ public class FileOperation {
 		System.out.println(x);
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	System.out.println("text1");
+	System.out.println("text2");
 	}
 }
